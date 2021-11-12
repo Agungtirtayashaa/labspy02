@@ -1,4 +1,4 @@
-# tugas praktikum 3
+# tugas praktikum 2
 
 
 ## persiapan variabel 
