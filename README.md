@@ -1,11 +1,12 @@
 # tugas praktikum 2
 
 
-## persiapan variabel 
-
 ## Flowchart
 ![gambar](jpg/01.jpg)
 
+
+ ## Persiapan Variabel
+ 
 kita mulai langsung dengan menyiapkan 3 buah variabel, yaitu a, b, dan c.
 Ketiga variabel ini kita isi dari inputan user seperti berikut:
 
